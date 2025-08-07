@@ -1,19 +1,127 @@
-# all-link-bloger
-All Bloger
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/quocchien2709) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@quocchien2709) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://youtube.com/@quocchienn) 
+<h1 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/10425/10425305.png" width="50"/>
+  <span style="color:#00C6FF;">Minh Quân Media</span> 
+  <img src="https://cdn-icons-png.flaticon.com/512/10425/10425305.png" width="50"/>
+</h1>
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=flat&logo=scaleway&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat&logo=rancher&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Quocchienn&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Quocchienn&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Quocchienn&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool%20Hub%20VN-Shadowrocket-blueviolet?style=for-the-badge&logo=cloudflare" />
+  <img src="https://img.shields.io/badge/Giao%20diện-Thượng%20Hải%20Style-red?style=for-the-badge&logo=remix" />
+  <img src="https://img.shields.io/badge/UI/UX-Hiện%20đại-success?style=for-the-badge&logo=vercel" />
+</p>
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=quocchienn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  🎯 Cập nhật nhanh nhất các Tool & App mod iOS/Android – phong cách UX/UI Thượng Hải 🇨🇳<br>
+  🔐 An toàn | 🌀 Giao diện nhiều màu mè | 🎁 Tool miễn phí hằng tuần
+</p>
 
-  ## 💰You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/quocchienn) 
+---
 
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔮 HỆ SINH THÁI TOOL MINH QUÂN MEDIA
+
+| 🔗 Dịch vụ | 👉 Link truy cập |
+|-----------|-----------------|
+| 🧩 Blog Crack iOS | [Shadowrocket Blog](https://shadowrocketcrackappios.blogspot.com/?m=1) |
+| 🧠 Tricker Channel | [Click tại đây](https://trickerchannelvn.blogspot.com/) |
+| 💥 Website Tool Buff | [🌐 subre98.com](https://subre98.com) |
+| 💸 Domain 10K/năm | [⚡ miengiare.click](https://miengiare.click) |
+| 🧑‍💻 Telegram Cá Nhân | [@minhquan2006](https://t.me/minhquan2006) |
+| 📢 Kênh Telegram | [@lmsictu_new](https://t.me/lmsictu_new) |
+
+---
+
+## ✨ GIAO DIỆN UI TRUNG HOA HIỆN ĐẠI
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/5955/5955735.png" width="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/11421/11421249.png" width="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/8263/8263907.png" width="60"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/11421/11421255.png" width="60"/>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/tDk0YQz.png" width="700" alt="demo giao diện tool"/>
+</p>
+
+---
+
+## 🚀 TÍNH NĂNG ĐẶC BIỆT
+
+- 🧬 Tool cực hiếm từ Trung Quốc: Bypass iOS, VPN, Clash, QuantumultX...
+- 📱 App Mod iOS/Android cập nhật hàng tuần
+- 🔰 100% miễn phí & an toàn
+- 💡 UX Design lấy cảm hứng từ các hệ thống như QQ Dev & Bilibili Tools
+
+---
+
+## 🔥 TRUY CẬP NHANH
+
+<p align="center">
+  <a href="https://subre98.com">
+    <img src="https://img.shields.io/badge/Truy%20cập-subre98.com-orange?style=for-the-badge&logo=firefox" />
+  </a>
+  <a href="https://miengiare.click">
+    <img src="https://img.shields.io/badge/Miền%20rẻ-10k/năm-yellow?style=for-the-badge&logo=namecheap" />
+  </a>
+  <a href="https://t.me/minhquan2006">
+    <img src="https://img.shields.io/badge/Telegram%20cá%20nhân-minhquan2006-blue?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="https://t.me/lmsictu_new">
+    <img src="https://img.shields.io/badge/Kênh%20Tool-lmsictu_new-29b6f6?style=for-the-badge&logo=telegram" />
+  </a>
+</p>
+
+---
+
+## 💖 ỦNG HỘ MINH QUÂN MEDIA
+
+| MOMO | MB Bank |
+|------|---------|
+| 0909xxx888 | 333322111 |
+
+> ✨ Donate để giúp team phát triển & tặng thêm tool private
+
+---
+
+## 🧭 KẾT NỐI
+
+- 📥 Gmail: minhquanmedia@gmail.com
+- 🧑‍💻 Telegram: [@minhquan2006](https://t.me/minhquan2006)
+- 📢 Channel: [@lmsictu_new](https://t.me/lmsictu_new)
+- 🌐 Web: [subre98.com](https://subre98.com) – [miengiare.click](https://miengiare.click)
+
+---
+
+## 🧰 TECH STACK
+
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-F72C1F?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20AE-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GITHUB STATS
+
+```text
+Minh Quân's GitHub Stats
+
+🌟 Total Stars:         11  
+🧱 Total Commits (2025): 280  
+🔁 Pull Requests:        1  
+🐞 Issues:               1  
+📅 Contributions:        339  
+🔥 Current Streak:       0 (Aug 7)  
+📈 Longest Streak:       6 days (Apr 24 - Apr 29)
+
+Grade: C+
